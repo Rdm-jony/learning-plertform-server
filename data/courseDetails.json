@@ -1,0 +1,69 @@
+// [
+//     {
+//         "id": "01",
+//         "name": "DBMS Programming",
+//         "img": "https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png",
+//         "price":"60$",
+//         "description": [
+//             "Database management system is a software which is used to manage the database. For example: MySQL, Oracle, etc are a very popular commercial database which is used in different applications.",
+//             "DBMS provides an interface to perform various operations like database creation, storing data in it, updating data, creating a table in the database and a lot more.",
+//             "It provides protection and security to the database. In the case of multiple users, it also maintains data consistency."
+//         ]
+//     },
+//     {
+//         "id": "02",
+//         "name": "Data Science",
+//         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6meeyu1ZajhjsYyW7sJRiq1e-cf7hFE2Zuw&usqp=CAU",
+//         "price":"50$",
+//         "description": [
+//             "Data Science careers are one of the most highly compensated careers worldwide currently. ",
+//             "Due to its broad application in every industry, there is a higher demand for data scientists who can analyze complex data and communicate the results effectively. ",
+//             " In this course, we will be covering the basics of data science and learning the tools used for data science from scratch."
+//         ]
+//     },
+//     {
+//         "id": "03",
+//         "name": "Web Programming",
+//         "img": "https://cdn.educba.com/academy/wp-content/uploads/2020/01/web-programming-languages-1.jpg",
+//         "price":"70$",
+//         "description": [
+//             "Web programming can be briefly categorized into client and server coding. The client side needs programming related to accessing data from users and providing information",
+//             " It also needs to ensure there are enough plug ins to enrich user experience in a graphic user interface, including security measures.",
+//             "The server side needs programming mostly related to data retrieval, security and performance. Some of the tools used here include ASP, Lotus Notes, PHP, Java and MySQL"
+//         ]
+//     },
+//     {
+//         "id": "04",
+//         "name": "Full Stack",
+//         "img": "https://tuhoclaptrinh.edu.vn/upload/post/15/99/10/full-stack-developer-can-hoc-nhung-gi-404771.jpg",
+//         "price":"60$",
+//         "description": [
+//             "A full stack web developer is a person who can develop both client and server software.",
+//             "Everything on a web page from the logo, to the search bar, buttons, overall layout and how the user interacts with the page was created by a front end developer.",
+//             "Back end development refers to the part of the application that the user does not see. Back end developers focus on the logic of the site, creating servers, and working with databases and API's "
+//         ]
+//     },
+//     {
+//         "id": "05",
+//         "name": "Mobile App",
+//         "img":"https://engineerbabu.com/blog/wp-content/uploads/2018/05/How-much-does-it-cost-to-build-a-mobile-app.jpg",
+//         "price":"65$",
+//         "description":[
+//             "A mobile application or app is a computer program or software application designed to run on a mobile device such as a phone, tablet, or watch.",
+//             " Mobile applications often stand in contrast to desktop applications which are designed to run on desktop computers, and web applications which run in mobile web browsers rather than directly on the mobile device.",
+//             "Apps are broadly classified into three types: native apps, hybrid and web apps"
+//         ]
+//     },
+//     {
+//         "id": "06",
+//         "name": "Rest Api",
+//         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYkJ_Q7zFtJ4lqeuDn-dykfrt_ggmSlX7SuQ&usqp=CAU",
+//         "price":"55$",
+//         "description":[
+//             "An API, or Application Programming Interface, defines a way of communicating between software applications.",
+//             "REST stands for Representational State Transfer, and is an architectural style of creating web services that communicate with web resources.",
+//             "JSON stands for JavaScript Object Notation, and is a standard text-based format that’s used to represent structured data."
+//         ]
+//     }
+
+// ]

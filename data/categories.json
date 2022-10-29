@@ -1,0 +1,38 @@
+// [
+//     {
+//         "id": "01",
+//         "name": "DBMS Programming",
+//         "img":"https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png",
+//         "price":"60$"
+//     },
+//     {
+//         "id": "02",
+//         "name": "Data Science",
+//         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6meeyu1ZajhjsYyW7sJRiq1e-cf7hFE2Zuw&usqp=CAU",
+//         "price":"50$"
+//     },
+//     {
+//         "id": "03",
+//         "name": "Web Programming",
+//         "img": "https://cdn.educba.com/academy/wp-content/uploads/2020/01/web-programming-languages-1.jpg",
+//         "price":"70$"
+//     },
+//     {
+//         "id": "04",
+//         "name": "Full Stack",
+//         "img": "https://tuhoclaptrinh.edu.vn/upload/post/15/99/10/full-stack-developer-can-hoc-nhung-gi-404771.jpg",
+//         "price":"60$"
+//     },
+//     {
+//         "id": "05",
+//         "name": "Mobile App",
+//         "img":"https://engineerbabu.com/blog/wp-content/uploads/2018/05/How-much-does-it-cost-to-build-a-mobile-app.jpg",
+//         "price":"65$"
+//     },
+//     {
+//         "id": "06",
+//         "name": "Rest Api",
+//         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYkJ_Q7zFtJ4lqeuDn-dykfrt_ggmSlX7SuQ&usqp=CAU",
+//         "price":"55$"
+//     }
+// ]
